@@ -1,5 +1,8 @@
 _repo: Dol0xe6us-upon-the-cure-of-the-gout-by-milk-diet-To-which-is-prefixed-an-essay-upon-diet_52947
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52947-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Stephens, William
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '47130'
     url: http://www.gutenberg.org/2009/agents/47130
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52947#Dol0xe6us-upon-the-cure-of-the-gout-by-milk-diet-To-which-is-prefixed-an-essay-upon-diet
 gutenberg_issued: '2016-08-31'
 gutenberg_type: Text
 identifiers:
